@@ -10,7 +10,7 @@ int main(void)
 
 	while (a < 10)
 	{
-		printf("single digits of a: %d\n", a);
+		printf(" %d\n", a);
 		a++;
 	}
 	return (0);
