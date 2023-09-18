@@ -7,7 +7,7 @@
 int main(void)
 {
 	char alphabets = 'a';
-	char alphabet = 'Z';
+	char alphabet = 'A';
 
 	while (alphabets <= 'z')
 	{
